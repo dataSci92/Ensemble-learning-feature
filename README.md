@@ -90,7 +90,7 @@ Single models have limitations. Ensemble methods combine multiple models to crea
 
 ## 🖼️ Visualization
 
-![Feature Importance Comparison](feature_importance.png)
+![Feature Importance Comparison](image.png)
 
 *Figure: Top 10 feature importance comparison between Random Forest and XGBoost*
 
